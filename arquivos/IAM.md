@@ -5,7 +5,6 @@
 
 
 
-https://github.com/user-attachments/assets/ad3ff8f1-632b-460b-b57d-435c8cda04d6
 
 
 <p align="center">
@@ -13,7 +12,7 @@ https://github.com/user-attachments/assets/ad3ff8f1-632b-460b-b57d-435c8cda04d6
         <img 
             alt="Linkedin" 
             title="IAM" 
-            src="https://github.com/Gnunes03/SAA-ARCHITETED-AWS/blob/main/arquivos/user-iam.mp4"
+            src="https://github.com/user-attachments/assets/3a79ead8-20e7-42e8-a209-5bdcdf357463"
         />
     </a>
 </p>
